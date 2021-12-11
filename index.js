@@ -18,7 +18,7 @@ console.log(
 
 const options = program.opts();
 program
-  .version("1.1.0")
+  .version("1.1.1")
   .command("mayk-ruoka")
   .description("Get the menu for the day from the mayk ruokala")
   .option("-h, --help", "Help message")

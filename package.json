@@ -1,6 +1,6 @@
 {
   "name": "mayk-ruoka",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A simple CLI tool that provides you the menu of the week in MaYK.",
   "main": "index.js",
   "bin": {
@@ -12,6 +12,17 @@
     "run": "node --experimental-json-modules index.js"
   },
   "author": "libreMayk",
+  "keywords": [
+    "mayk",
+    "mayk-ruoka",
+    "mayk-ruoka-cli",
+    "cli",
+    "mayk-cli"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/libreMayk/mayk-ruoka.git"
+  },
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.0.0",
